@@ -1,1 +1,2 @@
 # Story-book
+With Storybook, an open-source tool for building UI components one at a time, developers may focus on a single component at a time, take a closer look at it, and document its behavior and modifications. By providing a dedicated area where React components may be methodically and interactively developed, photographed, or documented, the project aims to improve the efficacy of React component development.
